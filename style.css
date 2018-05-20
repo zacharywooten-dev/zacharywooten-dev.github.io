@@ -5,9 +5,9 @@ body {
 h1 {
   color: red;
   background-color: white;
-  font-size: 40pt;
+  font-size: 36pt;
   text-align: center;
-  width: 400px;
+  width: 600px;
   height: 100px;
   margin: 20px auto;
 }
@@ -15,9 +15,9 @@ h1 {
 h1:hover {
   color: white;
   background-color: red;
-  font-size: 40pt;
+  font-size: 36pt;
   text-align: center;
-  width: 400px;
+  width: 600px;
   height: 100px;
   margin: 20px auto;
 }
@@ -31,6 +31,6 @@ p {
   font-size: 24pt;
   padding: 10px;
   text-align: center;
-  width: 400px;
+  width: 600px;
   margin: 20px auto;
 }
