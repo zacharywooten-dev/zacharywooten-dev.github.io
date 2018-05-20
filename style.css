@@ -5,6 +5,7 @@ body {
 h1 {
   color: red;
   background-color: white;
+  font-size: 40pt;
   text-align: center;
   width: 400px;
   height: 100px;
@@ -14,6 +15,7 @@ h1 {
 h1:hover {
   color: white;
   background-color: red;
+  font-size: 40pt;
   text-align: center;
   width: 400px;
   height: 100px;
@@ -26,6 +28,7 @@ img {
 
 p {
   border: 2px solid red;
+  font-size: 24pt;
   padding: 10px;
   text-align: center;
   width: 400px;
