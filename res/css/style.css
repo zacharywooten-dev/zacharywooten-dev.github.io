@@ -1,0 +1,25 @@
+html {
+  background: linear-gradient(-45deg, #404040, #808080);
+  font-family: 'Passion One';
+}
+
+.header {
+  background-image: url('../img/header-background.jpg');
+  background-blend-mode: soft-light;
+}
+
+.header h1 {
+  color: #7E6A58;
+  outline-style: solid;
+  outline-color: #000;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.content-section h2 {
+  color: #D16200;
+  outline-style: solid;
+  outline-color: #7E6A58;
+  font-size: 26px;
+  font-weight: 700;
+}
