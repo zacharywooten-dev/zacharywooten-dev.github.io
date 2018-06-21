@@ -1,25 +1,47 @@
-html {
-  background: linear-gradient(-45deg, #404040, #808080);
+body {
+  background-color: #505050;
   font-family: 'Passion One';
+  font-weight: 400;
 }
 
 .header {
-  background-image: url('../img/header-background.jpg');
-  background-blend-mode: soft-light;
+  background-color: #E86A00;
+  background-image: url('../img/abstract-background.png');
+  outline-color: #E86A00;
+  outline-style: solid;
+  outline-offset: 10px;
+  outline-width: 10px;
+  margin: 10px 25px 10px 25px;
 }
 
 .header h1 {
-  color: #7E6A58;
-  outline-style: solid;
-  outline-color: #000;
-  font-size: 32px;
-  font-weight: 700;
+  color: #FFE0BD;
+  padding: 15px;
+  font-size: 60px;
+  text-align: center;
 }
 
 .content-section h2 {
-  color: #D16200;
-  outline-style: solid;
-  outline-color: #7E6A58;
-  font-size: 26px;
+  color: #E86A00;
+  font-size: 48px;
+  text-align: center;
+}
+
+.project-link {
+  color: #111;
+  font-size: 20px;
+  margin-left: 175px;
+}
+
+.project-title {
   font-weight: 700;
+}
+
+.project-title a {
+  font-weight: 700;
+  color: #111;
+}
+
+.project-title a:hover {
+  color: #FFE0BD;
 }
